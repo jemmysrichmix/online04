@@ -1,0 +1,31 @@
+ .a-title h2{
+  color: #fff!important;
+  text-align: left;
+  margin-left: 4%;
+}
+.a-title{
+  padding: 0;
+  padding-top: 28%;
+}
+.a-title-body{
+  text-align: left;
+}
+
+
+.about-us, .textbox-styles{
+  padding-left: 5%;
+  padding-right: 5%;
+  font-family: arial;
+  font-weight: lighter;
+}
+
+.delivery-service ul li{
+  margin-bottom: 20px;
+  list-style: circle;
+
+}
+
+@media (max-width: 900px) {
+
+
+}
