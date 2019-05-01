@@ -359,8 +359,11 @@ input[type=submit]:hover {
 }
 
 .txt-highlight{
-  color: red;
+  color: rgb(131,33,75);
   font-family: verdana;
+}
+.combo-1 h2{
+  text-align: center;
 }
 .combo-top{
   width: 100%;
